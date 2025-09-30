@@ -1,0 +1,11 @@
+{
+  "product": "Steam",
+  "version": "0.1",
+  "timestamp": 1730000000,
+  "firmware": {
+    "url": "https://github.com/timgulden/Reliance-Steam-Arduino/releases/download/v0.1/SteamPressureV5.ino.bin",
+    "size": 87796,
+    "sha256": "7a16276daea5f139dcbac2d38d1b68bf6e88e143aca96576b0df89be2d23232a"
+  },
+  "notes": "Initial DFU test release"
+}
