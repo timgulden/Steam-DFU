@@ -1,9 +1,9 @@
 {
     "product": "Steam",
-    "version": "1.1.13",
+    "version": "1.1.14",
     "firmware": {
-        "url": "https://github.com/timgulden/Steam-DFU/releases/download/v1.1.13/SteamPressureV5.ino.bin",
-        "size": 89092,
-        "sha256": "363ca035dacf06addfec591d688c31c039fcf5156317f5d582aba598c61093f7"
+        "url": "https://github.com/timgulden/Steam-DFU/releases/download/v1.1.14/SteamPressureV5.ino.bin",
+        "size": 90492,
+        "sha256": "6388e7b35d6302580c2e286782624e5a597e89949bebe6629fee8f43260fc1c3"
     }
 }
