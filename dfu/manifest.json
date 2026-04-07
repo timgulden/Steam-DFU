@@ -1,9 +1,9 @@
 {
     "product": "Steam",
-    "version": "2.0.1-OTA",
+    "version": "2.0.4-OTA",
     "firmware": {
-        "url": "https://github.com/timgulden/Steam-DFU/releases/download/v2.0.1-OTA/SteamPressureV5.ino.bin",
-        "size": 118820,
-        "sha256": "4ac4f6c7c69b854c00b455770753fd35ab6d60a74881f39249c639040268e363"
+        "url": "https://github.com/timgulden/Steam-DFU/releases/download/v2.0.4-OTA/SteamPressureV5.ino.bin",
+        "size": 103300,
+        "sha256": "a1ca6e9a11f0ef2ee51e58423def6b791ebe5cfd96cfba0d281a84dc995de1a0"
     }
 }
