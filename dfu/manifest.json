@@ -1,9 +1,9 @@
 {
     "product": "Steam",
-    "version": "1.6.164",
+    "version": "2.0.0-OTA",
     "firmware": {
-        "url": "https://github.com/timgulden/Steam-DFU/releases/download/v1.6.164/SteamPressureV5.ino.bin",
-        "size": 90876,
-        "sha256": "2cba50fa42e4330c6ebbcfcc4b3909f40ebd8fcbe45576a7ac88413f66abc5ef"
+        "url": "https://github.com/timgulden/Reliance-Steam-Arduino/releases/download/v2.0.0-OTA/SteamPressureV5.ino.bin",
+        "size": 118556,
+        "sha256": "7ea88a6864c068ace41b8a655b68779a16693454e253a731471b9f4997667d79"
     }
 }
